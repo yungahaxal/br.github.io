@@ -50,6 +50,7 @@ body {
 .clock-dat {
   color: peachpuff;
   font-size: 32px;
+  font-style: italic;
 }
 .birthday-message {
   display: none;
