@@ -40,5 +40,5 @@ function getTimeRemaining(endtime) {
     var timeinterval = setInterval(updateClock, 1000);
   }
    
-  var birthday = '2022-04-05'; // for endless timer
+  var birthday = '2022-02-08';
   initializeClock('clock', birthday);
