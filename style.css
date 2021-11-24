@@ -66,8 +66,9 @@ body {
 }
 
 @media screen and (max-width: 800px) {
-  #clock {
-    background: none;
-  }
+body{
+  background: #222;
+}
+}
   
 }
